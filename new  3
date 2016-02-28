@@ -1,0 +1,7 @@
+
+var $ = jQuery;
+
+$('#srchFld').focus(function(){
+	 $(this).css('background-image', 'none');
+ });
+ 
